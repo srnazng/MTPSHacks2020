@@ -2,6 +2,9 @@
   "name": "mtpshacksweb",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "12.x"
+  },
   "homepage": "https://mtpshackathon.github.io/MTPSHacks/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
